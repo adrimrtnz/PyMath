@@ -2,7 +2,7 @@
 
 ## What is this repository about
 
-Anaconda Notebooks learning how to use Python to have a better understanding of math. Base on the [Master Math by Coding in Python](https://www.udemy.com/share/1021UoCUYYdVpRRHw=/) course by Rob Percival.
+Jupyter Notebooks learning how to use Python to have a better understanding of math. Base on the [Master Math by Coding in Python](https://www.udemy.com/share/1021UoCUYYdVpRRHw=/) course by Rob Percival.
 
 ## Sections
 
